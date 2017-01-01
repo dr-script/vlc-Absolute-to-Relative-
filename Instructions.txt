@@ -1,0 +1,15 @@
+1. Visit https://www.python.org/downloads/
+
+2. Select "Download Python 3.6.0"
+
+3. Install
+
+4. When Opening "app.py" right click and select "Edit with IDLE"
+
+5. Select your current version. 
+
+6. Once opened, hit "F5" to run the program. 
+
+Enjoy!
+
+Question or bug? ***************@gmail.com
